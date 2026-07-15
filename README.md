@@ -18,7 +18,7 @@ Il mio obiettivo principale è crescere come professionista dei dati. Ho una gra
 Sto costruendo questo spazio su GitHub per condividere il mio percorso di apprendimento, i miei progetti accademici e personali, e i tool che sperimento giorno dopo giorno.
 
 <!-- 🌐 Sostituisci "your-username" con il tuo reale username GitHub -->
-### [🏆 Guarda il mio Portfolio Completo](https://your-username.github.io/)
+### [🏆 Guarda il mio Portfolio Completo](deste37.github.io./)
       
 ## ⚽ Match Analysis & Football Analytics (Progetti di Studio)
 
