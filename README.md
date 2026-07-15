@@ -5,13 +5,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Junior+Business+Data+Analyst;Aspirante+Match+Analyst;Studente+di+Economia;Google+AI+Certified" alt="Typing SVG" />
 </div>
 
-<!-- 🔗 Ricordati di aggiornare questi link con i tuoi reali contatti -->
 <p align="center">
-  <a https://www.linkedin.com/in/marco-de-stefano-413514413/><img 
-  <a href="mailto:marcodeste37@gmail.com">
+  <a href="https://www.linkedin.com/in/marco-de-stefano-413514413/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:marcodeste37@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+</p>
 
 ## 🚀 Chi Sono 
-Sono uno studente di **Economia e Management presso l'Università di Salerno** e un **Junior Business Data Analyst in formazione** attraverso il corso IFTS presso MCG Consulting. Ho recentemente conseguito la certificazione **Google AI Professional Certificate**, mossa dal desiderio di unire l'intelligenza artificiale all'analisi dei dati per ottimizzare i processi decisionali di business.
+Sono uno studente di **Economia e Management presso l'Università di Salerno** e un **Junior Business Data Analyst in formazione** attraverso il corso IFTS presso MCG Consulting. Ho recentemente conseguito la certificazione **Google AI Professional Certificate**, mosso dal desiderio di unire l'intelligenza artificiale all'analisi dei dati per ottimizzare i processi decisionali di business.
 
 Il mio obiettivo principale è crescere come professionista dei dati. Ho una grande passione per la data analysis a 360° e sto muovendo i miei primi passi nell'universo della **Match Analysis / Football Analytics**. Trovo stimolante prendere dataset (anche calcistici!), analizzarli ed estrarre insight utili da presentare in modo chiaro e visivo.
 
