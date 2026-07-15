@@ -1,62 +1,71 @@
-## Hi there, I'm Destinho👋
+## Ciao, sono Destinho👋
 
 <div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
+  <!-- Typing SVG aggiornato con "Junior" e "Aspirante" -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Junior+Business+Data+Analyst;Aspirante+Match+Analyst;Studente+di+Economia;Google+AI+Certified" alt="Typing SVG" />
 </div>
 
-<!-- 🔗 Update these links with your own social media and contact information -->
+<!-- 🔗 Ricordati di aggiornare questi link con i tuoi reali contatti -->
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
-</p>
+  <a https://www.linkedin.com/in/marco-de-stefano-413514413/><img 
+  <a href="mailto:marcodeste37@gmail.com">
 
-## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+## 🚀 Chi Sono 
+Sono uno studente di **Economia e Management presso l'Università di Salerno** e un **Junior Business Data Analyst in formazione** attraverso il corso IFTS presso MCG Consulting. Ho recentemente conseguito la certificazione **Google AI Professional Certificate**, mossa dal desiderio di unire l'intelligenza artificiale all'analisi dei dati per ottimizzare i processi decisionali di business.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+Il mio obiettivo principale è crescere come professionista dei dati. Ho una grande passione per la data analysis a 360° e sto muovendo i miei primi passi nell'universo della **Match Analysis / Football Analytics**. Trovo stimolante prendere dataset (anche calcistici!), analizzarli ed estrarre insight utili da presentare in modo chiaro e visivo.
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+Sto costruendo questo spazio su GitHub per condividere il mio percorso di apprendimento, i miei progetti accademici e personali, e i tool che sperimento giorno dopo giorno.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+<!-- 🌐 Sostituisci "your-username" con il tuo reale username GitHub -->
+### [🏆 Guarda il mio Portfolio Completo](https://your-username.github.io/)
       
-## 🔭 What I'm Currently Working On 
+## ⚽ Match Analysis & Football Analytics (Progetti di Studio)
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Analisi Tattica & Video-Analisi:** Primi studi sulle fasi di gioco e della contrapposizione tattica attraverso report pre e post gara.
+- **Sperimentazione Dati Sportivi:** Creazione di dashboard personali per monitorare performance atletiche e tecniche basate su KPI di squadra e individuali.
 
-## 🌱 Currently Learning 
+## 🔭 Altri Progetti in Sviluppo
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- **Database Optimization & Migration:** Esercitazioni pratiche sulla progettazione, gestione e migrazione di database relazionali.
+- **AI-Powered Business Intelligence:** Applicazione delle metodologie Google AI per automatizzare e migliorare la reportistica.
 
-## 🛠️ Technical Skillset
+## 🌱 Cosa Sto Esplorando Attualmente
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
+- Analisi predittiva e tracciamento di prodotto con PostHog.
+- Gestione di database non relazionali (NoSQL) con MongoDB per l'archiviazione di dati semi-strutturati.
+- Primi passi con Python applicato alla Football Analytics.
+
+## 🛠️ Competenze Tecniche (In costante aggiornamento)
 
 #### Data Analysis & Visualization
 <p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+  <img src="https://img.shields.io/badge/Excel-Avanzato-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Avanzato">
+  <img src="https://img.shields.io/badge/Grafana-Avanzato-F46800?style=flat&logo=grafana&logoColor=white" alt="Grafana Avanzato">
+  <img src="https://img.shields.io/badge/PowerPoint-Avanzato-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint Avanzato">
+  <img src="https://img.shields.io/badge/SQL-Intermedio-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Intermedio">
+  <img src="https://img.shields.io/badge/PostgreSQL-Intermedio-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL Intermedio">
+  <img src="https://img.shields.io/badge/Tableau-Intermedio-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Intermedio">
+  <img src="https://img.shields.io/badge/Power%20BI-Base-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Base">
 </p>
 
-#### Programming & Automation
+#### Match Analysis & Football Analytics Skills (Livello Entry)
 <p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
+  <img src="https://img.shields.io/badge/Video%20Analysis-Studio--Base-green?style=flat" alt="Video Analysis">
+  <img src="https://img.shields.io/badge/Event%20Data-Primi--Passi-blue?style=flat" alt="Event Data Analysis">
 </p>
 
-#### Business Intelligence & Analytics
+#### Programmazione, Strumenti AI & Monitoraggio (In Esplorazione)
 <p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
+  <img src="https://img.shields.io/badge/Google%20AI-Certificato-4285F4?style=flat&logo=google&logoColor=white" alt="Google AI Certificato">
+  <img src="https://img.shields.io/badge/Python-Esplorando-3776AB?style=flat&logo=python&logoColor=white" alt="Python Esplorando">
+  <img src="https://img.shields.io/badge/PostHog-Esplorando-F97316?style=flat&logo=posthog&logoColor=white" alt="PostHog Esplorando">
+  <img src="https://img.shields.io/badge/MongoDB-Esplorando-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB Esplorando">
+</p>
+
+#### Business Intelligence & Metodologie
+<p>
+  <img src="https://img.shields.io/badge/Analisi%20Statistica-Base-4ECDC4?style=flat" alt="Analisi Statistica">
+  <img src="https://img.shields.io/badge/Sviluppo%20KPI-Intermedio-96CEB4?style=flat" alt="Sviluppo KPI">
+  <img src="https://img.shields.io/badge/Economia%20%26%20Management-Background-blue?style=flat" alt="Economia e Management">
 </p>
