@@ -45,6 +45,7 @@ Sto costruendo questo spazio su GitHub per condividere il mio percorso di appren
   <img src="https://img.shields.io/badge/SQL-Intermedio-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Intermedio">
   <img src="https://img.shields.io/badge/PostgreSQL-Intermedio-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL Intermedio">
   <img src="https://img.shields.io/badge/Tableau-Intermedio-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Intermedio">
+  <img src="https://img.shields.io/badge/Orange%20Data%20Mining-Avanzato-F15A24?style=flat&logo=orange&logoColor=white" alt="Orange Data Mining Avanzato">
   <img src="https://img.shields.io/badge/Power%20BI-Base-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Base">
 </p>
 
