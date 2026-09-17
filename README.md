@@ -12,7 +12,7 @@
 ## 🚀 Chi Sono 
 Sono uno studente di **Economia e Management presso l'Università di Salerno** e un **Junior Business Data Analyst in formazione** attraverso il corso IFTS presso MCG Consulting. Ho conseguito la certificazione **Google AI Professional Certificate**, mosso dal desiderio di unire l'intelligenza artificiale e la modellazione quantitativa all'analisi dei dati per supportare decisioni di business strategiche.
 
-Il mio percorso analitico integra **inferenza statistica ed esperimenti controllati (Python)**, **clustering non supervisionato applicato al rischio creditizio (R)** e una specializzazione verticale nella **Match Analysis & Football Analytics** attraverso l'elaborazione di dati spaziali di evento.
+Il mio percorso analitico integra **inferenza statistica ed esperimenti controllati (Python)**, **clustering non supervisionato applicato al rischio creditizio (R)** e una specializzazione verticale nella **Match Analysis & Football Analytics** attraverso l'elaborazione di dati spaziali di evento e **simulazioni stocastiche Monte Carlo**.
 
 Sto costruendo questo spazio su GitHub per condividere il mio percorso di apprendimento, i miei progetti accademici e personali, e i tool che sperimento giorno dopo giorno.
 
@@ -20,7 +20,9 @@ Sto costruendo questo spazio su GitHub per condividere il mio percorso di appren
 
 ## 📌 Progetti in Evidenza (Featured Projects)
 
-- ⚽ **[World Cup 2022 Final — Tactical Match Report & Spatial Event Analytics](https://github.com/deste37/football-event-data-analytics):** Match analysis quantitativa su dati ufficiali StatsBomb (Python & `mplsoccer`). Generazione di $xG$ Shot Maps, Passing Network sui titolari con calcolo del baricentro medio e mappe di densità difensiva (KDE).
+- ⚽ **[Football Event Data & Stochastic Match Modeling (Python)](https://github.com/deste37/football-event-data-analytics):** Suite modulare di match analysis avanzata su open data ufficiali StatsBomb:
+  - *Modulo 1 (World Cup 2022 Final):* Spatial analytics con $xG$ Shot Maps, Passing Networks sui titolari e mappe di densità difensiva (KDE).
+  - *Modulo 2 (Euro 2024 Final):* Simulazione stocastica Monte Carlo (100.000 iterazioni vettorizzate) shot-by-shot, matrice di probabilità dei risultati esatti e stima degli Expected Points ($xPTS$).
 - 📊 **[Corporate Financial Health & Credit Risk Segmentation (R)](https://github.com/deste37/pmi-credit-risk-clustering):** Clustering non supervisionato (K-Means) e PCA su 10.000 PMI per individuare 4 profili economico-finanziari, con validazione ex-post della Probabilità di Default (PD) a 12 mesi per logiche di Early Warning.
 - 🧪 **[E-Commerce A/B Testing & Causal Inference (Python)](https://github.com/deste37/ecommerce-ab-testing-analysis):** Studio di causalità su oltre 290.000 sessioni utente con Power Analysis preliminare, verifica di Sample Ratio Mismatch (SRM) e Two-Proportion Z-Test per la valutazione del tasso di conversione.
 
@@ -30,6 +32,7 @@ Sto costruendo questo spazio su GitHub per condividere il mio percorso di appren
 
 - **Spatial Event Data & xG Modeling:** Estrazione, pulizia e visualizzazione di eventi di gioco con coordinate spaziali $(x, y)$ tramite le API aperte di StatsBomb.
 - **Passing Networks & Struttura Tattica:** Mappatura dei flussi di trasmissione della palla, identificazione dei nodi di regia e asimmetrie di posizionamento medio prima delle sostituzioni.
+- **Modellazione Stocastica & Monte Carlo:** Simulazione probabilistica match shot-by-shot per disaccoppiare la prestazione strutturale dalla varianza dei gol e calcolare gli Expected Points ($xPTS$).
 - **Analisi Tattica & Video-Analisi:** Integrazione tra metrica quantitativa e analisi video per report pre/post gara sulla contrapposizione tattica e le transizioni.
 
 ## 🔭 Altri Progetti in Sviluppo
@@ -61,6 +64,8 @@ Sto costruendo questo spazio su GitHub per condividere il mio percorso di appren
   <img src="https://img.shields.io/badge/StatsBomb%20Data-Avanzato-red?style=flat" alt="StatsBomb Data">
   <img src="https://img.shields.io/badge/mplsoccer-Avanzato-101010?style=flat" alt="mplsoccer">
   <img src="https://img.shields.io/badge/Expected%20Goals%20(xG)-Applicato-orange?style=flat" alt="Expected Goals">
+  <img src="https://img.shields.io/badge/Monte%20Carlo%20Simulation-Applicato-blueviolet?style=flat" alt="Monte Carlo Simulation">
+  <img src="https://img.shields.io/badge/Expected%20Points%20(xPTS)-Applicato-purple?style=flat" alt="Expected Points">
   <img src="https://img.shields.io/badge/Passing%20Networks-Applicato-blue?style=flat" alt="Passing Networks">
   <img src="https://img.shields.io/badge/Video%20Analysis-Studio--Base-green?style=flat" alt="Video Analysis">
 </p>
@@ -70,6 +75,7 @@ Sto costruendo questo spazio su GitHub per condividere il mio percorso di appren
   <img src="https://img.shields.io/badge/A%2FB%20Testing-Statistica%20Inferenziale-informational?style=flat" alt="A/B Testing">
   <img src="https://img.shields.io/badge/Machine%20Learning-K--Means%20Clustering-orange?style=flat" alt="K-Means Clustering">
   <img src="https://img.shields.io/badge/PCA-Riduzione%20Dimensionalit%C3%A0-blueviolet?style=flat" alt="PCA">
+  <img src="https://img.shields.io/badge/Simulazione%20Stocastica-Monte%20Carlo-blue?style=flat" alt="Simulazione Stocastica">
   <img src="https://img.shields.io/badge/Credit%20Risk%20Analytics-Applicato-success?style=flat" alt="Credit Risk">
   <img src="https://img.shields.io/badge/Google%20AI-Certificato-4285F4?style=flat&logo=google&logoColor=white" alt="Google AI Certificato">
 </p>
