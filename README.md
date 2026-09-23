@@ -12,7 +12,7 @@
 ## 🚀 Chi Sono 
 Sono uno studente di **Economia e Management presso l'Università di Salerno** e un **Business Data Analyst in formazione** attraverso il corso IFTS presso MCG Consulting. Ho conseguito la certificazione **Google AI Professional Certificate**, mosso dal desiderio di unire l'intelligenza artificiale e la modellazione quantitativa all'analisi dei dati per supportare decisioni di business strategiche.
 
-Il mio percorso analitico integra **inferenza statistica ed esperimenti controllati (Python)**, **clustering non supervisionato applicato al rischio creditizio (R)** e una specializzazione verticale nella **Match Analysis & Football Analytics** attraverso l'elaborazione di dati spaziali di evento e **simulazioni stocastiche Monte Carlo**.
+Il mio percorso analitico integra **inferenza statistica ed esperimenti controllati (Python)**, **clustering non supervisionato applicato al rischio creditizio (R)** e una specializzazione verticale nella **Match Analysis & Football Analytics** attraverso l'elaborazione di dati spaziali di evento, **simulazioni stocastiche Monte Carlo** e sviluppo di **Web App interattive**.
 
 Sto costruendo questo spazio su GitHub per condividere il mio percorso di apprendimento, i miei progetti accademici e personali, e i tool che sperimento giorno dopo giorno.
 
@@ -23,6 +23,7 @@ Sto costruendo questo spazio su GitHub per condividere il mio percorso di appren
 - ⚽ **[Football Event Data & Stochastic Match Modeling (Python)](https://github.com/deste37/football-event-data-analytics):** Suite modulare di match analysis avanzata su open data ufficiali StatsBomb:
   - *Modulo 1 (World Cup 2022 Final):* Spatial analytics con $xG$ Shot Maps, Passing Networks sui titolari e mappe di densità difensiva (KDE).
   - *Modulo 2 (Euro 2024 Final):* Simulazione stocastica Monte Carlo (100.000 iterazioni vettorizzate) shot-by-shot, matrice di probabilità dei risultati esatti e stima degli Expected Points ($xPTS$).
+  - 🎰 **[Monte Carlo Euro 2024 Web App (Streamlit)](https://montecarlosimulationeuro2024.streamlit.app/):** Web Application interattiva a tema *Monte Carlo Casino* per la simulazione 1X2 in tempo reale e Sandbox *"What If..."* per la modifica dinamica delle occasioni da gol. ([Repo Codice App](https://github.com/deste37/euro2024-montecarlo-app))
 - 📊 **[Corporate Financial Health & Credit Risk Segmentation (R)](https://github.com/deste37/pmi-credit-risk-clustering):** Clustering non supervisionato (K-Means) e PCA su 10.000 PMI per individuare 4 profili economico-finanziari, con validazione ex-post della Probabilità di Default (PD) a 12 mesi per logiche di Early Warning.
 - 🧪 **[E-Commerce A/B Testing & Causal Inference (Python)](https://github.com/deste37/ecommerce-ab-testing-analysis):** Studio di causalità su oltre 290.000 sessioni utente con Power Analysis preliminare, verifica di Sample Ratio Mismatch (SRM) e Two-Proportion Z-Test per la valutazione del tasso di conversione.
 
@@ -33,6 +34,7 @@ Sto costruendo questo spazio su GitHub per condividere il mio percorso di appren
 - **Spatial Event Data & xG Modeling:** Estrazione, pulizia e visualizzazione di eventi di gioco con coordinate spaziali $(x, y)$ tramite le API aperte di StatsBomb.
 - **Passing Networks & Struttura Tattica:** Mappatura dei flussi di trasmissione della palla, identificazione dei nodi di regia e asimmetrie di posizionamento medio prima delle sostituzioni.
 - **Modellazione Stocastica & Monte Carlo:** Simulazione probabilistica match shot-by-shot per disaccoppiare la prestazione strutturale dalla varianza dei gol e calcolare gli Expected Points ($xPTS$).
+- **Web App Development (Streamlit):** Sviluppo di dashboard analitiche e simulatori di scenario "What If" fruibili da browser con visualizzazione di heatmap di rischio e probabilità.
 - **Analisi Tattica & Video-Analisi:** Integrazione tra metrica quantitativa e analisi video per report pre/post gara sulla contrapposizione tattica e le transizioni.
 
 ---
@@ -42,6 +44,7 @@ Sto costruendo questo spazio su GitHub per condividere il mio percorso di appren
 #### Linguaggi & Ambienti di Analisi
 <p>
   <img src="https://img.shields.io/badge/Python-Intermedio-3776AB?style=flat&logo=python&logoColor=white" alt="Python Intermedio">
+  <img src="https://img.shields.io/badge/Streamlit-Avanzato-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit">
   <img src="https://img.shields.io/badge/R-Intermedio-276DC3?style=flat&logo=r&logoColor=white" alt="R Intermedio">
   <img src="https://img.shields.io/badge/RStudio-Intermedio-75AADB?style=flat&logo=rstudio&logoColor=white" alt="RStudio Intermedio">
   <img src="https://img.shields.io/badge/SQL-Intermedio-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Intermedio">
@@ -69,8 +72,9 @@ Sto costruendo questo spazio su GitHub per condividere il mio percorso di appren
   <img src="https://img.shields.io/badge/Google%20AI-Certificato-4285F4?style=flat&logo=google&logoColor=white" alt="Google AI Certificato">
 </p>
 
-#### Data Analysis & Visualization (BI Tools)
+#### Data Analysis & Visualization (BI Tools & Web App)
 <p>
+  <img src="https://img.shields.io/badge/Streamlit-Web%20Apps-FF4B4B?style=flat&logo=streamlit&logoColor=white" alt="Streamlit Web Apps">
   <img src="https://img.shields.io/badge/Excel-Avanzato-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Avanzato">
   <img src="https://img.shields.io/badge/Grafana-Avanzato-F46800?style=flat&logo=grafana&logoColor=white" alt="Grafana Avanzato">
   <img src="https://img.shields.io/badge/PowerPoint-Avanzato-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint Avanzato">
