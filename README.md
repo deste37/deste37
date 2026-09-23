@@ -35,17 +35,6 @@ Sto costruendo questo spazio su GitHub per condividere il mio percorso di appren
 - **Modellazione Stocastica & Monte Carlo:** Simulazione probabilistica match shot-by-shot per disaccoppiare la prestazione strutturale dalla varianza dei gol e calcolare gli Expected Points ($xPTS$).
 - **Analisi Tattica & Video-Analisi:** Integrazione tra metrica quantitativa e analisi video per report pre/post gara sulla contrapposizione tattica e le transizioni.
 
-## 🔭 Altri Progetti in Sviluppo
-
-- **Database Optimization & Migration:** Esercitazioni pratiche sulla progettazione, gestione e migrazione di database relazionali (PostgreSQL/SQL).
-- **AI-Powered Business Intelligence:** Applicazione delle metodologie Google AI per automatizzare e migliorare la reportistica direzionale.
-
-## 🌱 Cosa Sto Esplorando Attualmente
-
-- Analisi predittiva e tracciamento di prodotto con PostHog.
-- Gestione di database non relazionali (NoSQL) con MongoDB per l'archiviazione di dati semi-strutturati.
-- Modelli di classificazione supervisionata per la predizione del rischio e customer churn.
-
 ---
 
 ## 🛠️ Competenze Tecniche (In costante aggiornamento)
