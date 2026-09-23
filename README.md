@@ -10,7 +10,7 @@
 </p>
 
 ## 🚀 Chi Sono 
-Sono uno studente di **Economia e Management presso l'Università di Salerno** e un ** Business Data Analyst in formazione** attraverso il corso IFTS presso MCG Consulting. Ho conseguito la certificazione **Google AI Professional Certificate**, mosso dal desiderio di unire l'intelligenza artificiale e la modellazione quantitativa all'analisi dei dati per supportare decisioni di business strategiche.
+Sono uno studente di **Economia e Management presso l'Università di Salerno** e un **Business Data Analyst in formazione** attraverso il corso IFTS presso MCG Consulting. Ho conseguito la certificazione **Google AI Professional Certificate**, mosso dal desiderio di unire l'intelligenza artificiale e la modellazione quantitativa all'analisi dei dati per supportare decisioni di business strategiche.
 
 Il mio percorso analitico integra **inferenza statistica ed esperimenti controllati (Python)**, **clustering non supervisionato applicato al rischio creditizio (R)** e una specializzazione verticale nella **Match Analysis & Football Analytics** attraverso l'elaborazione di dati spaziali di evento e **simulazioni stocastiche Monte Carlo**.
 
