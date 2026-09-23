@@ -1,7 +1,7 @@
 ## Ciao, sono Destinho👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=480&lines=Junior+Business+Data+Analyst;Python+%26+R+Analytics;Match+%26+Football+Analyst;Studente+di+Economia;Google+AI+Certified" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=480&lines=+Business+Data+Analyst;Match+%26+Football+Analyst;Studente+di+Economia;Google+AI+Certified" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -10,7 +10,7 @@
 </p>
 
 ## 🚀 Chi Sono 
-Sono uno studente di **Economia e Management presso l'Università di Salerno** e un **Junior Business Data Analyst in formazione** attraverso il corso IFTS presso MCG Consulting. Ho conseguito la certificazione **Google AI Professional Certificate**, mosso dal desiderio di unire l'intelligenza artificiale e la modellazione quantitativa all'analisi dei dati per supportare decisioni di business strategiche.
+Sono uno studente di **Economia e Management presso l'Università di Salerno** e un ** Business Data Analyst in formazione** attraverso il corso IFTS presso MCG Consulting. Ho conseguito la certificazione **Google AI Professional Certificate**, mosso dal desiderio di unire l'intelligenza artificiale e la modellazione quantitativa all'analisi dei dati per supportare decisioni di business strategiche.
 
 Il mio percorso analitico integra **inferenza statistica ed esperimenti controllati (Python)**, **clustering non supervisionato applicato al rischio creditizio (R)** e una specializzazione verticale nella **Match Analysis & Football Analytics** attraverso l'elaborazione di dati spaziali di evento e **simulazioni stocastiche Monte Carlo**.
 
