@@ -10,9 +10,9 @@
 </p>
 
 ## 🚀 Chi Sono 
-Sono uno studente di **Economia e Management presso l'Università di Salerno** e un **Business Data Analyst in formazione** attraverso il corso IFTS presso MCG Consulting. Ho conseguito la certificazione **Google AI Professional Certificate**, mosso dal desiderio di unire l'intelligenza artificiale e la modellazione quantitativa all'analisi dei dati per supportare decisioni di business strategiche.
+Sono uno studente di **Economia e Management presso l'Università di Salerno** e un **Business Data Analyst in formazione** attraverso il corso IFTS presso MCG Consulting. Ho conseguito la certificazione **Google AI Professional Certificate**, mosso dal desiderio di unire l'intelligenza artificiale, le reti neurali e la modellazione quantitativa all'analisi dei dati per supportare decisioni di business strategiche e complesse.
 
-Il mio percorso analitico integra **inferenza statistica ed esperimenti controllati (Python)**, **clustering non supervisionato applicato al rischio creditizio (R)** e una specializzazione verticale nella **Match Analysis & Football Analytics** attraverso l'elaborazione di dati spaziali di evento, **simulazioni stocastiche Monte Carlo** e sviluppo di **Web App interattive**.
+Il mio percorso analitico spazia dal **Machine Learning & Explainable AI (R)** al **clustering non supervisionato sul rischio creditizio**, dall'**inferenza statistica ed ed esperimenti controllati (Python)**, fino a una specializzazione verticale nella **Match Analysis & Football Analytics** tramite dati spaziali di evento, **simulazioni stocastiche Monte Carlo** e sviluppo di **Web App interattive**.
 
 Sto costruendo questo spazio su GitHub per condividere il mio percorso di apprendimento, i miei progetti accademici e personali, e i tool che sperimento giorno dopo giorno.
 
@@ -20,6 +20,10 @@ Sto costruendo questo spazio su GitHub per condividere il mio percorso di appren
 
 ## 📌 Progetti in Evidenza (Featured Projects)
 
+- 🚀 **[Venture Capital Startup Screening: Decision Tree vs ANN & XAI (R)](https://github.com/deste37/vc-startup-success-ann-xai):** Pipeline analitica end-to-end per lo screening precoce di startup e PMI ad alto potenziale (M&A / IPO):
+  - *Data Simulation & NLP:* Generazione di dati economico-finanziari/Unit Economics e Text Mining (`tidytext`) dell'Executive Summary dei Pitch Deck per l'estrazione di segnali di trazione e rischio.
+  - *Modellazione Comparativa:* Benchmarking tra **Decision Tree (`rpart`)** e **Artificial Neural Network (`nnet`)** ad un hidden layer, con preprocessing esente da data leakage e valutazione tramite curve ROC-AUC.
+  - *Explainable AI (XAI):* Calcolo dei **Valori SHAP (`kernelshap`)** per l'interpretabilità globale dei driver di successo e la diagnosi locale sul punteggio di rischio di singole startup.
 - ⚽ **[Football Event Data & Stochastic Match Modeling (Python)](https://github.com/deste37/football-event-data-analytics):** Suite modulare di match analysis avanzata su open data ufficiali StatsBomb:
   - *Modulo 1 (World Cup 2022 Final):* Spatial analytics con $xG$ Shot Maps, Passing Networks sui titolari e mappe di densità difensiva (KDE).
   - *Modulo 2 (Euro 2024 Final):* Simulazione stocastica Monte Carlo (100.000 iterazioni vettorizzate) shot-by-shot, matrice di probabilità dei risultati esatti e stima degli Expected Points ($xPTS$).
@@ -51,6 +55,16 @@ Sto costruendo questo spazio su GitHub per condividere il mio percorso di appren
   <img src="https://img.shields.io/badge/PostgreSQL-Intermedio-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL Intermedio">
 </p>
 
+#### Machine Learning, Artificial Intelligence & XAI
+<p>
+  <img src="https://img.shields.io/badge/Artificial%20Neural%20Networks%20(ANN)-Applicato-red?style=flat" alt="Artificial Neural Networks">
+  <img src="https://img.shields.io/badge/Explainable%20AI%20(SHAP)-Applicato-orange?style=flat" alt="Explainable AI SHAP">
+  <img src="https://img.shields.io/badge/Decision%20Trees%20(rpart)-Applicato-forestgreen?style=flat" alt="Decision Trees">
+  <img src="https://img.shields.io/badge/Text%20Mining%20%26%20NLP-tidytext-blueviolet?style=flat" alt="Text Mining NLP">
+  <img src="https://img.shields.io/badge/K--Means%20Clustering-Applicato-blue?style=flat" alt="K-Means Clustering">
+  <img src="https://img.shields.io/badge/PCA-Riduzione%20Dimensionalit%C3%A0-informational?style=flat" alt="PCA">
+</p>
+
 #### Match Analysis & Football Analytics Skills
 <p>
   <img src="https://img.shields.io/badge/StatsBomb%20Data-Avanzato-red?style=flat" alt="StatsBomb Data">
@@ -65,10 +79,8 @@ Sto costruendo questo spazio su GitHub per condividere il mio percorso di appren
 #### Metodologie & Statistica
 <p>
   <img src="https://img.shields.io/badge/A%2FB%20Testing-Statistica%20Inferenziale-informational?style=flat" alt="A/B Testing">
-  <img src="https://img.shields.io/badge/Machine%20Learning-K--Means%20Clustering-orange?style=flat" alt="K-Means Clustering">
-  <img src="https://img.shields.io/badge/PCA-Riduzione%20Dimensionalit%C3%A0-blueviolet?style=flat" alt="PCA">
   <img src="https://img.shields.io/badge/Simulazione%20Stocastica-Monte%20Carlo-blue?style=flat" alt="Simulazione Stocastica">
-  <img src="https://img.shields.io/badge/Credit%20Risk%20Analytics-Applicato-success?style=flat" alt="Credit Risk">
+  <img src="https://img.shields.io/badge/Credit%20Risk%20%26%20VC%20Analytics-Applicato-success?style=flat" alt="Credit Risk & VC Analytics">
   <img src="https://img.shields.io/badge/Google%20AI-Certificato-4285F4?style=flat&logo=google&logoColor=white" alt="Google AI Certificato">
 </p>
 
@@ -82,3 +94,4 @@ Sto costruendo questo spazio su GitHub per condividere il mio percorso di appren
   <img src="https://img.shields.io/badge/Orange%20Data%20Mining-Avanzato-F15A24?style=flat&logo=orange&logoColor=white" alt="Orange Data Mining Avanzato">
   <img src="https://img.shields.io/badge/Power%20BI-Base-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Base">
 </p>
+
